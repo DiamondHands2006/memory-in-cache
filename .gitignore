@@ -1,0 +1,21 @@
+# Binaries for programs
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (go modules)
+vendor/
+
+# VS Code settings
+.vscode/
+
+# Other temporary or generated files
+*.log
+tmp/
